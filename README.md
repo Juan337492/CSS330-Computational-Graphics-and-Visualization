@@ -21,3 +21,7 @@ Through this project, my coding practices have evolved to prioritize clarity, re
 Exploring computational graphics has provided me with valuable skills in 3D modeling, lighting, and rendering—knowledge that extends beyond this project. These skills are applicable to future coursework and professional opportunities, such as game development, simulation, and visualization.
 
 Additionally, the project has reinforced my understanding of how to create engaging user experiences. This knowledge will support my aspirations in software engineering, where crafting intuitive and visually appealing applications is essential.
+<img src="https://github.com/Juan337492/CSS330-Computational-Graphics-and-Visualization/blob/main/Project.png?raw=true"
+     alt="3D Project"
+     title="3D Project"
+     width="800" />
